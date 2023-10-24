@@ -1,0 +1,951 @@
+
+html {
+	font-size:62.5%;
+  overflow-x: hidden;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.about-us-tiL {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.about-us-tiL .auto-group-1dtk-Avk {
+  width: 144.8rem;
+  height: 143rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .rectangle-2-J1N {
+  width: 144.1rem;
+  height: 99.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #0e0e0e;
+}
+.about-us-tiL .auto-group-1dtk-Avk .rectangle-41-q1J {
+  width: 144.1rem;
+  height: 43.2rem;
+  position: absolute;
+  left: 0;
+  top: 99.8rem;
+  background-color: #0e0e0e;
+}
+.about-us-tiL .auto-group-1dtk-Avk .rectangle-40-y7W {
+  width: 8.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 94.6rem;
+  top: 8.1rem;
+  background-color: #d9d9d9;
+}
+.about-us-tiL .auto-group-1dtk-Avk .website-design-2-Jfa {
+  width: 144rem;
+  height: 43.2rem;
+  position: absolute;
+  left: 0;
+  top: 99.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe {
+  box-sizing: border-box;
+  padding: 7.2rem 9.25rem 16.6rem 9.25rem;
+  width: 144rem;
+  height: 99.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/homepage-bg-1-2-bg.png');
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .vector-40-k1n {
+  margin: 0rem 0rem 19.9rem 53.8rem;
+  width: 8.6rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt .frame-260-RNp {
+  margin: 0rem 21.7rem 5.5rem 21.7rem;
+  width: calc(100% - 43.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt .frame-260-RNp .frame-259-kfz {
+  margin-bottom: 4.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt .frame-260-RNp .frame-259-kfz .full-logo-2-VtU {
+  margin-bottom: 13.9rem;
+  width: 82.1rem;
+  height: 11.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt .frame-260-RNp .frame-259-kfz .concentrating-on-what-truly-matters-your-brand-qSY {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt .frame-260-RNp .frame-259-kfz .concentrating-on-what-truly-matters-your-brand-qSY .concentrating-on-what-truly-matters-your-brand-qSY-sub-0 {
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt .frame-260-RNp .frame-259-kfz .concentrating-on-what-truly-matters-your-brand-qSY .concentrating-on-what-truly-matters-your-brand-qSY-sub-1 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt .frame-260-RNp .frame-259-kfz .concentrating-on-what-truly-matters-your-brand-qSY .concentrating-on-what-truly-matters-your-brand-qSY-sub-2 {
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt .frame-260-RNp .vector-23-dmi {
+  width: 53.1rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt .frame-261-NjJ {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt .frame-261-NjJ .trueframe-media-is-a-creative-design-studio-that-builds-and-connects-dedicated-business-owners-by-helping-them-create-a-tailored-fit-and-target-market-focused-website-and-hollistic-marketing-strategies-8yN {
+  margin-bottom: 4.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .frame-262-Tgt .frame-261-NjJ .we-bridge-the-gaps-to-deliver-a-fully-customized-and-purposeful-experience-honing-in-on-constructing-a-strategic-brand-approach-that-aligns-seamlessly-with-your-business-goals-we-sculpt-a-timeless-adaptable-brand-that-goes-beyond-fleeting-trends-growing-in-tandem-with-your-business-a-brand-that-forges-meaningful-connections-with-your-audience-and-simplifies-the-entire-business-building-journey-your-aspirations-for-your-business-are-within-reach-beginning-with-a-clear-vision-through-our-methodical-approach-we-ensure-your-brand-is-primed-for-sustained-growth-together-we-breathe-life-into-your-vision-empowering-you-to-elevate-your-business-with-confidence-and-clarity-Ncp {
+  max-width: 120.4rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN {
+  width: 144.8rem;
+  height: 12.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .rectangle-2-iCp {
+  width: 144.8rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .homepage-bg-1-2-FiY {
+  width: 144rem;
+  height: 12.1rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA {
+  width: 125.6rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 3.4rem;
+  display: flex;
+  align-items: center;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA .asset-2-1-haY {
+  margin: 0.3rem 24.4rem 0rem 0rem;
+  width: 4.6rem;
+  height: 4.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA .auto-group-mlwa-pQG {
+  margin: 1.4rem 8.4rem 1.6rem 0rem;
+  width: 72.5rem;
+  height: calc(100% - 3rem);
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA .auto-group-mlwa-pQG .frame-365-L7i {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA .auto-group-mlwa-pQG .frame-365-L7i .info-HYk {
+  margin-right: 11.3rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA .auto-group-mlwa-pQG .frame-365-L7i .services-2FS {
+  margin-right: 12.3rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA .auto-group-mlwa-pQG .frame-365-L7i .studio-9ax {
+  margin-right: 11.7rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA .auto-group-mlwa-pQG .frame-365-L7i .about-us-HhA {
+  margin-right: 12.3rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA .auto-group-mlwa-pQG .frame-365-L7i .store-2Pr {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA .group-43-xoJ {
+  margin-bottom: 0.2rem;
+  width: 15.7rem;
+  height: 4.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA .group-43-xoJ .contact-us-WZv {
+  width: 8.1rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 1.4rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-tiL .auto-group-1dtk-Avk .navigation-bar-moN .group-41-NoA .group-43-xoJ .rectangle-27-pKi {
+  width: 15.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+}
+.about-us-tiL .frame-275-8bJ {
+  box-sizing: border-box;
+  padding: 22.6rem 9.3rem 24.8rem 9.4rem;
+  width: 144.1rem;
+  height: 111.6rem;
+  background-color: #0e0e0e;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-263-1uz {
+  margin: 0rem 15.25rem 6.3rem 15.25rem;
+  width: calc(100% - 30.5rem);
+  row-gap: 3.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-263-1uz .meet-the-trueframe-team-LSU {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-263-1uz .we-are-a-team-of-highly-dedicated-creative-individuals-concentrated-in-finding-the-right-solution-to-focus-in-your-brand-fje {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-263-1uz .vector-24-McU {
+  width: 47.75rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya {
+  width: 100%;
+  height: 45.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-269-T9i {
+  margin-right: 6.6rem;
+  width: 26.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-269-T9i .rectangle-74-Q4x {
+  margin-bottom: 6.7rem;
+  width: 26.6rem;
+  height: 34.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-269-T9i .frame-265-wKn {
+  margin: 0rem 4.15rem 0rem 2.65rem;
+  width: calc(100% - 6.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-269-T9i .frame-265-wKn .ashtley-silas-sandoval-sjE {
+  margin-bottom: 0.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-269-T9i .frame-265-wKn .director-of-operations-strategy-CFi {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-270-izk {
+  margin-right: 6.6rem;
+  width: 26.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-270-izk .rectangle-75-5KW {
+  margin-bottom: 6.7rem;
+  width: 26.6rem;
+  height: 34.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-270-izk .frame-266-1ix {
+  margin: 0 2.35rem;
+  width: calc(100% - 4.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-270-izk .frame-266-1ix .jon-von-tyronne-elcarte-xu6 {
+  margin-bottom: 0.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-270-izk .frame-266-1ix .co-director-of-operations-strategy-VPE {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-271-2PA {
+  margin-right: 5.8rem;
+  width: 26.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-271-2PA .rectangle-76-a9n {
+  margin-bottom: 6.7rem;
+  width: 26.6rem;
+  height: 34.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-271-2PA .frame-267-Wp8 {
+  margin: 0 6.8rem;
+  width: calc(100% - 13.6rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-271-2PA .frame-267-Wp8 .joshua-cabalse-F12 {
+  margin-bottom: 0.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-271-2PA .frame-267-Wp8 .it-creative-director-NbS {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-272-i9W {
+  width: 26.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-272-i9W .rectangle-77-GB2 {
+  margin-bottom: 6.7rem;
+  width: 26.6rem;
+  height: 34.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-272-i9W .frame-268-QY8 {
+  margin: 0 4.9rem;
+  width: calc(100% - 9.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-272-i9W .frame-268-QY8 .dynise-lira-xJk {
+  margin-bottom: 0.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-275-8bJ .frame-274-f5S .frame-273-Vya .frame-272-i9W .frame-268-QY8 .director-of-creative-strategy-tTJ {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-283-P9A {
+  box-sizing: border-box;
+  padding: 18.9rem 19.5rem 24.3rem 19.5rem;
+  width: 144.1rem;
+  height: 100.2rem;
+  background-color: #0e0e0e;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-283-P9A .frame-282-5ng {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.about-us-tiL .frame-283-P9A .frame-282-5ng .frame-281-r2k {
+  margin: 5.75rem 20.9rem 5.75rem 0rem;
+  width: 43.9rem;
+  height: calc(100% - 11.5rem);
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-283-P9A .frame-282-5ng .frame-281-r2k .frame-280-Nmn {
+  margin-bottom: 6.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.about-us-tiL .frame-283-P9A .frame-282-5ng .frame-281-r2k .frame-280-Nmn .join-our-design-centered-trueframe-community-Xua {
+  margin-bottom: 3.8rem;
+  max-width: 34.4rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-283-P9A .frame-282-5ng .frame-281-r2k .frame-280-Nmn .a-place-for-creative-minded-individuals-were-here-to-help-you-build-a-brand-that-aligns-with-your-goals-we-create-timeless-brands-that-grow-with-your-business-making-connections-with-your-audience-easy-in-our-community-we-simplify-the-journey-of-building-your-business-your-goals-are-within-reach-starting-with-a-clear-vision-we-guide-you-step-by-step-ensuring-your-brand-is-set-for-lasting-growth-together-we-empower-you-to-elevate-your-business-with-confidence-join-us-where-your-business-journey-becomes-a-shared-adventure-and-success-is-a-journey-we-take-together-eUQ {
+  max-width: 43.9rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-283-P9A .frame-282-5ng .frame-281-r2k .frame-279-wbv {
+  box-sizing: border-box;
+  padding: 1.6rem 3.15rem 1.5rem 3.3rem;
+  width: 31.6rem;
+  height: 6.2rem;
+  background-color: #0003ff;
+}
+.about-us-tiL .frame-283-P9A .frame-282-5ng .frame-281-r2k .frame-279-wbv .frame-278-GeC {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.about-us-tiL .frame-283-P9A .frame-282-5ng .frame-281-r2k .frame-279-wbv .frame-278-GeC .join-our-community-dje {
+  margin-right: 2.7rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-283-P9A .frame-282-5ng .frame-281-r2k .frame-279-wbv .frame-278-GeC .vector-39-AUg {
+  width: 1.55rem;
+  height: 2.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .frame-283-P9A .frame-282-5ng .community-2-Vmr {
+  width: 40.3rem;
+  height: 57rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv {
+  width: 100%;
+  height: 74.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .about-us-nkx {
+  width: 6.4rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 47.5rem;
+  top: 47.2rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ {
+  box-sizing: border-box;
+  padding: 15.8rem 11.946rem 4rem 11.954rem;
+  width: 144.6rem;
+  height: 74.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #0e0e0e;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L {
+  margin-bottom: 11.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W {
+  margin-bottom: 6.0675rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .full-logo-3-hmS {
+  margin-bottom: 1.9rem;
+  width: 20.9rem;
+  height: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU {
+  margin-left: 39.2962rem;
+  width: 81.4038rem;
+  height: 29.6325rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN {
+  width: 78.6145rem;
+  height: 28rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-148-WTz {
+  margin-right: 21.7038rem;
+  height: 100%;
+  row-gap: 6.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-148-WTz .info-eaC {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-148-WTz .services-C5v {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-148-WTz .studio-Lxp {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-148-WTz .about-us-6SC {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y {
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-149-13N {
+  margin-right: 18.9107rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-149-13N .sign-up-Zag {
+  margin-bottom: 6.8rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-149-13N .book-a-call-K44 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-354-GEC {
+  margin-top: 0.1rem;
+  width: 23.5rem;
+  row-gap: 2.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-354-GEC .group-8-Cde {
+  margin: 0rem 11.7rem 0rem 0.167rem;
+  width: calc(100% - 11.8667rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-354-GEC .group-8-Cde .akar-icons-phone-jda {
+  margin: 0rem 0.567rem 0.1rem 0rem;
+  width: 1.6667rem;
+  height: 1.6668rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-354-GEC .group-8-Cde .item-639481125707-3uA {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #bdbdbd;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-354-GEC .group-7-aeC {
+  margin-left: 0.1313rem;
+  width: calc(100% - 0.1313rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-354-GEC .group-7-aeC .carbon-email-8Qp {
+  margin-right: 0.8313rem;
+  width: 1.8375rem;
+  height: 1.3125rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-354-GEC .group-7-aeC .hellotrueframemediagmailcom-GX2 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #bdbdbd;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-354-GEC .group-1202-Cfa {
+  margin-right: 1.8rem;
+  box-sizing: border-box;
+  padding-left: 0.3494rem;
+  width: calc(100% - 1.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-354-GEC .group-1202-Cfa .basil-location-outline-itp {
+  margin: 0rem 0.649rem 0.283rem 0rem;
+  width: 1.7012rem;
+  height: 2.0667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-153-xhN .frame-152-36Y .frame-354-GEC .group-1202-Cfa .zone-5-brgy-san-joaquin-palo-leytephilippines-bxc {
+  max-width: 19rem;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #bdbdbd;
+  font-family: Moderat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-147-sfE {
+  width: 9.7rem;
+  height: 2.2308rem;
+  position: absolute;
+  left: 71.7038rem;
+  top: 27.4017rem;
+  display: flex;
+  column-gap: 1.4rem;
+  align-items: center;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-147-sfE .vector-mVi {
+  margin-bottom: 0.093rem;
+  width: 2.3rem;
+  height: 2.1378rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-147-sfE .akar-icons-instagram-fill-sYk {
+  margin-top: 0rem;
+  width: 2.2rem;
+  height: 2.0449rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .frame-155-k5W .frame-154-EWU .frame-147-sfE .akar-icons-linkedin-v1-fill-Q2t {
+  width: 2.4rem;
+  height: 2.2308rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-156-z6L .vector-29-KvY {
+  width: 118.3913rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-150-sx4 {
+  margin: 0rem 43.349rem 0rem 45.596rem;
+  width: calc(100% - 88.9444rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-150-sx4 .all-rights-reserved-by-trueframe-media-2023-zFz {
+  margin-right: 3.65rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-150-sx4 .group-25-tsA {
+  width: 0.9056rem;
+  height: 1.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-150-sx4 .group-25-tsA .ellipse-2-qnQ {
+  width: 0.9056rem;
+  height: 0.9rem;
+  position: absolute;
+  left: 0;
+  top: 0.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ .frame-157-dFn .frame-150-sx4 .group-25-tsA .c-P3E {
+  width: 0.5rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 0.1006rem;
+  top: 0;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Moderat, 'Source Sans Pro';
+  white-space: nowrap;
+}
