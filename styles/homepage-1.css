@@ -1,3 +1,16 @@
+@font-face {
+  font-family: 'Moderat Extended';
+  src: url("/font/Moderat-Extended-Medium.eot");
+  src: local('Moderat Extended Medium'), local('Moderat-Extended-Medium'),
+      url('Moderat-Extended-Medium.eot?#iefix') format('embedded-opentype'),
+      url('Moderat-Extended-Medium.woff2') format('woff2'),
+      url('Moderat-Extended-Medium.woff') format('woff'),
+      url('Moderat-Extended-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+
 
 html {
 	font-size:62.5%;
