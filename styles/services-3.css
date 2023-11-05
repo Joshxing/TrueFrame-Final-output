@@ -39,37 +39,42 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr {
   width: 100%;
   height: 379.5rem;
   position: relative;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .rectangle-39-Eme {
-  width: 8.3rem;
+  width: 100%;
   height: 0.1rem;
   position: absolute;
   left: 53.8rem;
   top: 7.8rem;
   background-color: #d9d9d9;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-258-xSk {
-  width: 144.1rem;
+  width: 100%;
   height: 194.5rem;
   position: absolute;
   left: 0;
   top: 0;
   background-color: #0e0e0e;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-258-xSk .homepage-bg-1-2-u76 {
-  width: 144rem;
+  width: 100%;
   height: 99.9rem;
   position: absolute;
   left: 0;
   top: 0;
   object-fit: cover;
   vertical-align: top;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-258-xSk .frame-253-E9N {
   width: 125.5rem;
@@ -453,7 +458,7 @@ body {
   vertical-align: top;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k {
-  width: 144.1rem;
+  width: 100%;
   height: 185rem;
   position: absolute;
   left: 0;
@@ -502,6 +507,7 @@ body {
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-223-NUQ .frame-221-8Cg .frame-215-V3E .custom-graphic-design-3aY {
   margin-right: 25.3rem;
@@ -512,9 +518,10 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-223-NUQ .frame-221-8Cg .frame-215-V3E .building-a-strong-brand-image-through-graphic-design-starts-with-knowing-your-brand-and-audience-design-is-about-crafting-visuals-that-mirror-your-brands-purpose-we-prioritize-user-friendly-designs-ensuring-a-smooth-experience-collaboratively-we-align-your-vision-with-every-graphic-design-element-creating-visuals-that-embody-your-brand-strategy-aaU {
-  max-width: 55.8rem;
+  max-width: 100%;
   font-size: 1.5rem;
   font-weight: 300;
   line-height: 1.2575;
@@ -523,7 +530,7 @@ body {
   flex-shrink: 0;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-223-NUQ .frame-221-8Cg .providing-custom-graphic-solutions-based-on-specific-client-needs-and-projects-NmE {
-  max-width: 28.1rem;
+  max-width: 100%;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -539,20 +546,23 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-219-RUc {
   margin: 0rem 24.05rem 0rem 26.55rem;
-  width: calc(100% - 50.6rem);
+  width: 100%;
   height: 17.2rem;
   display: flex;
   align-items: center;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-219-RUc .frame-216-wxk {
   height: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-219-RUc .frame-216-wxk .branding-and-identity-uua {
   margin-bottom: 2rem;
@@ -563,9 +573,10 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-219-RUc .frame-216-wxk .logo-design-tagline-creation-color-palette-selection-typography-selection-brand-guidelines-brand-photography-style-custom-brand-design-services-4Gg {
-  max-width: 19rem;
+  max-width: 100%;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -580,12 +591,14 @@ body {
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-219-RUc .auto-group-csm6-LEC .frame-217-gYx {
   margin-right: 10.6rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-219-RUc .auto-group-csm6-LEC .frame-217-gYx .digital-design-So2 {
   margin-bottom: 2rem;
@@ -596,15 +609,17 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-219-RUc .auto-group-csm6-LEC .frame-217-gYx .infographic-design-poster-and-banner-design-social-media-graphics-PTN {
-  max-width: 16.1rem;
+  max-width: 100%;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.2575;
   color: #0e0e0e;
   font-family: Moderat, 'Source Sans Pro';
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-219-RUc .auto-group-csm6-LEC .frame-217-gYx .infographic-design-poster-and-banner-design-social-media-graphics-PTN .infographic-design-poster-and-banner-design-social-media-graphics-PTN-sub-0 {
 }
@@ -614,11 +629,13 @@ body {
   line-height: 1.2575;
   color: #0e0e0e;
   font-family: Moderat, 'Source Sans Pro';
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-219-RUc .auto-group-csm6-LEC .frame-218-t2k {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-219-RUc .auto-group-csm6-LEC .frame-218-t2k .print-design-3AY {
   margin-bottom: 2rem;
@@ -629,9 +646,10 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .frame-224-qjN .frame-219-RUc .auto-group-csm6-LEC .frame-218-t2k .brochure-business-cards-banners-promotional-products-layout-design-aRN {
-  max-width: 13.8rem;
+  max-width: 100%;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -640,11 +658,12 @@ body {
   flex-shrink: 0;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .frame-225-uKv .vector-19-HKn {
-  width: 114.7rem;
+  width: 100%;
   height: 0.4057rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .packages-2oA {
   font-size: 2rem;
@@ -653,6 +672,7 @@ body {
   color: #0e0e0e;
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt {
   box-sizing: border-box;
@@ -660,14 +680,16 @@ body {
   width: 100%;
   display: flex;
   flex-direction: column;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA {
   margin: 0rem 22.4rem 18.894rem 0rem;
-  width: calc(100% - 22.4rem);
+  width: 100%;
   height: 30.6rem;
   display: flex;
   align-items: center;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .frame-228-pj2 {
   height: 100%;
@@ -675,6 +697,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .frame-228-pj2 .brand-identityl-package-muA {
   font-size: 1.5rem;
@@ -684,6 +707,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .frame-228-pj2 .timeline-of-1-week-W64 {
   font-size: 1.5rem;
@@ -693,9 +717,10 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .frame-228-pj2 .discovery-call-and-consultation-client-orientation-and-proposal-client-onboarding-and-downpayment-comprehensive-brand-strategy-web-design-components-brand-briefing-logo-design-tagline-creation-color-palette-selection-typography-selection-brand-guidelines-brand-photography-style-custom-brand-design-services-SkQ {
-  max-width: 26.3rem;
+  max-width: 100%;
   font-size: 1.5rem;
   font-weight: 300;
   line-height: 1.2575;
@@ -711,6 +736,7 @@ body {
   line-height: 1.2575;
   color: #0e0e0e;
   font-family: Moderat, 'Source Sans Pro';
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .auto-group-eqsn-hiG {
   box-sizing: border-box;
@@ -719,6 +745,7 @@ body {
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .auto-group-eqsn-hiG .frame-227-FDz {
   margin-right: 12.2rem;
@@ -726,6 +753,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .auto-group-eqsn-hiG .frame-227-FDz .digital-design-package-bYk {
   font-size: 1.5rem;
@@ -735,6 +763,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .auto-group-eqsn-hiG .frame-227-FDz .timeline-of-1-week-jQ4 {
   font-size: 1.5rem;
@@ -744,9 +773,10 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .auto-group-eqsn-hiG .frame-227-FDz .discovery-call-and-consultation-client-orientation-and-proposal-client-onboarding-and-downpayment-comprehensive-brand-strategy-web-design-components-brand-briefing-infographic-design-poster-and-banner-design-social-media-graphics-g4Q {
-  max-width: 26.3rem;
+  max-width: 100%;
   font-size: 1.5rem;
   font-weight: 300;
   line-height: 1.2575;
@@ -762,12 +792,14 @@ body {
   line-height: 1.2575;
   color: #0e0e0e;
   font-family: Moderat, 'Source Sans Pro';
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .auto-group-eqsn-hiG .frame-226-Whe {
   row-gap: 1.1rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .auto-group-eqsn-hiG .frame-226-Whe .print-package-Tsn {
   font-size: 1.5rem;
@@ -777,6 +809,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .auto-group-eqsn-hiG .frame-226-Whe .timeline-of-2-week-pTS {
   font-size: 1.5rem;
@@ -786,9 +819,10 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .frame-229-uMA .auto-group-eqsn-hiG .frame-226-Whe .discovery-call-and-consultation-client-orientation-and-proposal-client-onboarding-and-downpayment-comprehensive-brand-strategy-web-design-development-components-brand-briefing-brochure-business-cards-banners-promotional-products-layout-design-mda {
-  max-width: 27.6rem;
+  max-width: 100%;
   font-size: 1.5rem;
   font-weight: 300;
   line-height: 1.2575;
@@ -804,6 +838,7 @@ body {
   line-height: 1.2575;
   color: #0e0e0e;
   font-family: Moderat, 'Source Sans Pro';
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .we-require-50-downpayment-on-every-project-1gL {
   margin: 0rem 0rem 4.506rem 1rem;
@@ -814,13 +849,15 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-254-BPv .auto-group-rz9a-aJt .vector-18-XPn {
-  width: 74.7rem;
+  width: 100%;
   height: 0;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .frame-257-r6k .frame-249-H84 {
   box-sizing: border-box;
@@ -866,7 +903,7 @@ body {
   background-color: #ffffff;
 }
 .services-3-nek .auto-group-bnhv-WKr .navigation-bar-zAt .rectangle-2-j8U {
-  width: 144.8rem;
+  width: 100%;
   height: 13.2rem;
   position: absolute;
   left: 0;
@@ -911,6 +948,7 @@ body {
   height: 100%;
   display: flex;
   align-items: center;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .navigation-bar-zAt .group-41-Cnk .auto-group-2ong-G1v .frame-365-b4C .info-vMN {
   margin-right: 11.3rem;
@@ -921,6 +959,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .services-3-nek .auto-group-bnhv-WKr .navigation-bar-zAt .group-41-Cnk .auto-group-2ong-G1v .frame-365-b4C .services-3wn {
   margin-right: 12.3rem;
@@ -1562,7 +1601,7 @@ body {
 .services-3-nek .auto-group-jtry-y1z .frame-159-Xxc {
   box-sizing: border-box;
   padding: 15.8rem 11.946rem 4rem 11.954rem;
-  width: 144.6rem;
+  width: 100%;
   height: 74.2rem;
   position: absolute;
   left: 0;

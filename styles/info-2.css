@@ -12,7 +12,6 @@
 
 
 
-
 html {
 	font-size:62.5%;
   overflow-x: hidden;
@@ -40,17 +39,19 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC {
-  width: 144.8rem;
+  width: 100%;
   height: 100.7rem;
   position: relative;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g {
   box-sizing: border-box;
   padding: 7.2rem 7.65rem 26.65rem 7.65rem;
-  width: 144rem;
+  width: 100%;
   height: 100.7rem;
   position: absolute;
   left: 0;
@@ -63,12 +64,14 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-image: url('../assets/homepage-bg-1-2-bg.png');
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .frame-199-CWk {
   width: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .frame-199-CWk .frame-14-ACg {
   margin-bottom: 20.2rem;
@@ -77,6 +80,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .frame-199-CWk .frame-14-ACg .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx {
   margin-bottom: 5.1rem;
@@ -90,6 +94,7 @@ body {
   display: flex;
   align-items: baseline;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .frame-199-CWk .frame-14-ACg .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx-sub-0 {
   font-size: 120px;
@@ -97,6 +102,7 @@ body {
   line-height: 1.6871458973;
   color: #ffffff;
   font-family: Moderat, 'Source Sans Pro';
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .frame-199-CWk .frame-14-ACg .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx-sub-1 {
   font-size: 70px;
@@ -104,6 +110,7 @@ body {
   line-height: 1.6871458973;
   color: #0003ff;
   font-family: Moderat, 'Source Sans Pro';
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .frame-199-CWk .frame-14-ACg .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx-sub-2 {
   font-size: 120px;
@@ -111,6 +118,7 @@ body {
   line-height: 1.6871458973;
   color: #ffffff;
   font-family: Moderat, 'Source Sans Pro';
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .frame-199-CWk .frame-14-ACg .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx-sub-3 {
   font-size: 120px;
@@ -118,6 +126,7 @@ body {
   line-height: 1.6871458973;
   color: #ffffff;
   font-family: Moderat, 'Source Sans Pro';
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .frame-199-CWk .frame-14-ACg .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx-sub-4 {
   font-size: 120px;
@@ -125,6 +134,7 @@ body {
   line-height: 1.6871458973;
   color: #0066ff;
   font-family: Moderat, 'Source Sans Pro';
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .frame-199-CWk .frame-14-ACg .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx .the-trueframe-blueprint-discover-on-how-we-help-your-brand-unlock-its-true-potential-uvx-sub-5 {
   font-size: 2.4rem;
@@ -132,13 +142,15 @@ body {
   line-height: 1.6871458973;
   color: #ffffff;
   font-family: Moderat, 'Source Sans Pro';
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .frame-199-CWk .frame-14-ACg .vector-4-zmN {
-  width: 69.9rem;
+  width: 100%;
   height: 0;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .frame-199-CWk .vector-6-YH6 {
   width: 6.7rem;
@@ -146,53 +158,60 @@ body {
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .rectangle-39-UgY {
   width: 4.4rem;
   height: 0.1rem;
   background-color: #d9d9d9;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .frame-287-92g .vector-40-1wN {
   width: 4.4rem;
   height: 0;
   object-fit: contain;
   vertical-align: top;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik {
-  width: 144.8rem;
+  width: 100%;
   height: 12.1rem;
   position: absolute;
   left: 0;
   top: 0;
   overflow: hidden;
   background-color: #ffffff;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .rectangle-2-5RS {
-  width: 144.8rem;
+  width: 100%;
   height: 13.2rem;
   position: absolute;
   left: 0;
   top: 0;
   object-fit: cover;
   vertical-align: top;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .homepage-bg-1-2-1Zz {
-  width: 144rem;
+  width: 100%;
   height: 12.1rem;
   position: absolute;
   left: 0.4rem;
   top: 0;
   object-fit: cover;
   vertical-align: top;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk {
-  width: 125.6rem;
+  width: 100%;
   height: 4.9rem;
   position: absolute;
   left: 8.5rem;
   top: 3.4rem;
   display: flex;
   align-items: center;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk .asset-2-1-s6Q {
   margin: 0.3rem 24.4rem 0rem 0rem;
@@ -201,18 +220,21 @@ body {
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk .auto-group-mfrx-yfE {
   margin: 1.4rem 8.4rem 1.6rem 0rem;
-  width: 72.5rem;
+  width: 100%;
   height: calc(100% - 3rem);
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk .auto-group-mfrx-yfE .frame-365-6jr {
   width: 100%;
   height: 100%;
   display: flex;
   align-items: center;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk .auto-group-mfrx-yfE .frame-365-6jr .info-emN {
   margin-right: 11.3rem;
@@ -223,6 +245,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk .auto-group-mfrx-yfE .frame-365-6jr .services-auv {
   margin-right: 12.3rem;
@@ -233,6 +256,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk .auto-group-mfrx-yfE .frame-365-6jr .studio-vit {
   margin-right: 11.7rem;
@@ -243,6 +267,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk .auto-group-mfrx-yfE .frame-365-6jr .about-us-fRa {
   margin-right: 12.3rem;
@@ -253,6 +278,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk .auto-group-mfrx-yfE .frame-365-6jr .store-c5v {
   font-size: 1.5rem;
@@ -262,16 +288,18 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk .group-43-YkG {
   margin-bottom: 0.2rem;
-  width: 15.7rem;
+  width: 100%;
   height: 4.7rem;
   position: relative;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk .group-43-YkG .contact-us-6Fz {
-  width: 8.1rem;
+  width: 100%;
   height: 1.9rem;
   position: absolute;
   left: 2.2rem;
@@ -282,29 +310,33 @@ body {
   color: #ffffff;
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-dxcl-pWC .navigation-bar-Lik .group-41-wCk .group-43-YkG .rectangle-27-nec {
-  width: 15.7rem;
+  width: 100%;
   height: 4.7rem;
   position: absolute;
   left: 0;
   top: 0;
   border: solid 0.1rem #ffffff;
   box-sizing: border-box;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-pjey-Jsr {
-  width: 144.3rem;
+  width: 100%;
   height: 404.3rem;
   position: relative;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-pjey-Jsr .frame-288-SjA {
-  width: 144.2rem;
+  width: 100%;
   height: 101.7rem;
   position: absolute;
   left: 0;
   top: 0;
   background-color: #0e0e0e;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-pjey-Jsr .frame-288-SjA .frame-198-BRr {
   width: 97rem;
@@ -315,6 +347,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-pjey-Jsr .frame-288-SjA .frame-198-BRr .trueframe-blueprint-use {
   margin-bottom: 3rem;
@@ -637,12 +670,13 @@ body {
 .info-2-J24 .auto-group-pjey-Jsr .frame-285-tAU {
   box-sizing: border-box;
   padding: 10.3rem 19.7rem 13.55rem 10.2rem;
-  width: 144.1rem;
+  width: 100%;
   height: 99.9rem;
   position: absolute;
   left: 0;
   top: 203.2rem;
   background-color: #0e0e0e;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-pjey-Jsr .frame-285-tAU .frame-200-zjJ {
   width: 100%;
@@ -721,12 +755,13 @@ body {
 .info-2-J24 .auto-group-pjey-Jsr .frame-286-2bS {
   box-sizing: border-box;
   padding: 19.2rem 8.5rem 20.5rem 8.4rem;
-  width: 144.1rem;
+  width: 100%;
   height: 101.7rem;
   position: absolute;
   left: 0;
   top: 101.6rem;
   background-color: #0e0e0e;
+  max-width: 100%;
 }
 .info-2-J24 .auto-group-pjey-Jsr .frame-286-2bS .frame-111-wiQ {
   width: 100%;
@@ -976,7 +1011,7 @@ body {
 .info-2-J24 .auto-group-pjey-Jsr .frame-284-Z2G {
   box-sizing: border-box;
   padding: 19.7rem 17.7rem 15.4rem 13.4rem;
-  width: 144.3rem;
+  width: 100%;
   height: 101.7rem;
   position: absolute;
   left: 0;

@@ -39,36 +39,41 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
+  max-width: 100%;
 }
 .about-us-tiL .auto-group-1dtk-Avk {
-  width: 144.8rem;
+  width: 100%;
   height: 143rem;
   position: relative;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .about-us-tiL .auto-group-1dtk-Avk .rectangle-2-J1N {
-  width: 144.1rem;
+  width: 100%;
   height: 99.9rem;
   position: absolute;
   left: 0;
   top: 0;
   background-color: #0e0e0e;
+  max-width: 100%;
 }
 .about-us-tiL .auto-group-1dtk-Avk .rectangle-41-q1J {
-  width: 144.1rem;
+  width: 100%;
   height: 43.2rem;
   position: absolute;
   left: 0;
   top: 99.8rem;
   background-color: #0e0e0e;
+  max-width: 100%;
 }
 .about-us-tiL .auto-group-1dtk-Avk .rectangle-40-y7W {
-  width: 8.6rem;
+  width: 100%;
   height: 0.1rem;
   position: absolute;
   left: 94.6rem;
   top: 8.1rem;
   background-color: #d9d9d9;
+  max-width: 100%;
 }
 .about-us-tiL .auto-group-1dtk-Avk .website-design-2-Jfa {
   width: 144rem;
@@ -82,7 +87,7 @@ body {
 .about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe {
   box-sizing: border-box;
   padding: 7.2rem 9.25rem 16.6rem 9.25rem;
-  width: 144rem;
+  width: 100%;
   height: 99.9rem;
   position: absolute;
   left: 0;
@@ -94,6 +99,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-image: url('../assets/homepage-bg-1-2-bg.png');
+  max-width: 100%;
 }
 .about-us-tiL .auto-group-1dtk-Avk .frame-276-eDe .vector-40-k1n {
   margin: 0rem 0rem 19.9rem 53.8rem;
@@ -329,7 +335,7 @@ body {
 .about-us-tiL .frame-275-8bJ {
   box-sizing: border-box;
   padding: 22.6rem 9.3rem 24.8rem 9.4rem;
-  width: 144.1rem;
+  width: 100%;
   height: 111.6rem;
   background-color: #0e0e0e;
   flex-shrink: 0;
@@ -570,7 +576,7 @@ body {
 .about-us-tiL .frame-283-P9A {
   box-sizing: border-box;
   padding: 18.9rem 19.5rem 24.3rem 19.5rem;
-  width: 144.1rem;
+  width: 100%;
   height: 100.2rem;
   background-color: #0e0e0e;
   flex-shrink: 0;
@@ -671,7 +677,7 @@ body {
 .about-us-tiL .auto-group-xvun-qKv .frame-161-JUQ {
   box-sizing: border-box;
   padding: 15.8rem 11.946rem 4rem 11.954rem;
-  width: 144.6rem;
+  width: 100%;
   height: 74.2rem;
   position: absolute;
   left: 0;
