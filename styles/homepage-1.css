@@ -18,11 +18,13 @@ html {
   width: 100%;
   margin: 0;
   padding: 0;
+  max-width: 100%;
 }
 * {
   box-sizing: border-box;
 	margin: 0;
 	padding: 0;
+  max-width: 100%;
 }
 ul, li {
 	list-style: none;
@@ -32,21 +34,24 @@ input {
 }
 body {
   width: 100%;
+  max-width: 100%;
 }.homepage-1-rME {
   width: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk {
   width: 100%;
   height: 446.3rem;
   position: relative;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .services-iAU {
-  width: 9.8rem;
+  width: 100%;
   height: 3.1rem;
   position: absolute;
   left: 8.6rem;
@@ -57,6 +62,7 @@ body {
   color: #0e0e0e;
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-145-9ma {
   box-sizing: border-box;
@@ -67,16 +73,15 @@ body {
   left: 0.3rem;
   top: 360.3rem;
   background-color: #ffffff;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-145-9ma .frame-122-Skg {
-  width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-145-9ma .frame-122-Skg .building-your-brand-through-holistic-approach-ByA {
   margin-bottom: 8.5rem;
-  max-width: 40rem;
   font-size: 3.6rem;
   font-weight: 500;
   line-height: 1.2575;
@@ -85,7 +90,6 @@ body {
   flex-shrink: 0;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-145-9ma .frame-122-Skg .frame-121-4n4 {
-  width: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -93,7 +97,6 @@ body {
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-145-9ma .frame-122-Skg .frame-121-4n4 .group-81-CNU {
   margin-bottom: 7.8rem;
-  width: 100%;
   height: 30.1rem;
   display: flex;
   column-gap: 20.5rem;
@@ -158,7 +161,6 @@ body {
   flex-shrink: 0;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-145-9ma .frame-122-Skg .frame-121-4n4 .group-81-CNU .group-31-s9A .strengthen-your-brand-with-creative-designs-that-grab-attention-and-make-a-lasting-impression-online-fqi {
-  max-width: 27.6rem;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -191,7 +193,6 @@ body {
   flex-shrink: 0;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-145-9ma .frame-122-Skg .frame-121-4n4 .group-81-CNU .group-32-NEL .helping-you-achieve-your-first-step-towards-gaining-online-presence-and-boosting-your-brand-in-digital-space-Bha {
-  max-width: 26.9rem;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -216,16 +217,18 @@ body {
   font-family: Lato, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-145-9ma .frame-122-Skg .frame-121-4n4 .group-56-er4 .vector-4-5gU {
-  width: 1.2rem;
+  width: 100%;
   height: 2.8rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z {
-  width: 144.5rem;
+  width: 100%;
   height: 119.2rem;
   position: absolute;
   left: 0.3rem;
@@ -233,6 +236,8 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
+  max-width: 100%;
+  margin: 0 auto;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .navigation-bar-8ue {
   width: 100%;
@@ -240,24 +245,27 @@ body {
   position: relative;
   overflow: hidden;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .navigation-bar-8ue .rectangle-2-5Zz {
-  width: 144.8rem;
+  width: 100%;
   height: 13.2rem;
   position: absolute;
   left: 0;
   top: -0.5rem;
   object-fit: cover;
   vertical-align: top;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .navigation-bar-8ue .homepage-bg-1-2-Bsv {
-  width: 144rem;
+  width: 100%;
   height: 12.1rem;
   position: absolute;
   left: 0.3rem;
   top: 0;
   object-fit: cover;
   vertical-align: top;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .navigation-bar-8ue .group-41-v4p {
   width: 125.6rem;
@@ -287,6 +295,7 @@ body {
   height: 100%;
   display: flex;
   align-items: center;
+  max-width: 1005;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .navigation-bar-8ue .group-41-v4p .auto-group-twwu-vj2 .frame-365-qb6 .info-b4U {
   margin-right: 11.3rem;
@@ -327,6 +336,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .navigation-bar-8ue .group-41-v4p .auto-group-twwu-vj2 .frame-365-qb6 .store-jZz {
   font-size: 1.5rem;
@@ -336,6 +346,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .navigation-bar-8ue .group-41-v4p .group-43-UGg {
   margin-bottom: 0.2rem;
@@ -343,6 +354,7 @@ body {
   height: 4.7rem;
   position: relative;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .navigation-bar-8ue .group-41-v4p .group-43-UGg .contact-us-DVA {
   width: 8.1rem;
@@ -356,15 +368,17 @@ body {
   color: #ffffff;
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .navigation-bar-8ue .group-41-v4p .group-43-UGg .rectangle-27-u76 {
-  width: 15.7rem;
+  width: 100%;
   height: 4.7rem;
   position: absolute;
   left: 0;
   top: 0;
   border: solid 0.1rem #ffffff;
   box-sizing: border-box;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ {
   box-sizing: border-box;
@@ -375,6 +389,7 @@ body {
   background-position: -4.875rem 0;
   background-image: url('../assets/homepage-bg-1-2-bg-hHa.png');
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS {
   width: 100%;
@@ -382,6 +397,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .auto-group-md1s-sTE {
   box-sizing: border-box;
@@ -391,6 +407,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .auto-group-md1s-sTE .frame-116-CkQ {
   margin-bottom: 12.9rem;
@@ -399,6 +416,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .auto-group-md1s-sTE .frame-116-CkQ .concentrating-on-what-truly-matters-ZL4 {
   margin-bottom: 4.3rem;
@@ -410,9 +428,10 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .auto-group-md1s-sTE .frame-116-CkQ .trueframe-media-is-a-creative-design-studio-dedicated-to-helping-brands-transform-through-intentional-creation-of-website-and-holistic-marketing-and-content-strategies-GkG {
-  max-width: 91.1rem;
+  max-width: 100%;
   text-align: center;
   font-size: 2rem;
   font-weight: 300;
@@ -423,11 +442,12 @@ body {
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .auto-group-md1s-sTE .frame-115-jdr {
   margin: 0 34rem;
-  width: calc(100% - 68rem);
+  width: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .auto-group-md1s-sTE .frame-115-jdr .group-57-ULY {
   margin-bottom: 4.9rem;
@@ -436,6 +456,7 @@ body {
   background-color: #0003ff;
   box-shadow: 0 0.4rem 4.1rem #0003ff;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .auto-group-md1s-sTE .frame-115-jdr .group-57-ULY .group-44-CXS {
   width: 100%;
@@ -451,6 +472,7 @@ body {
   justify-content: center;
   background-color: #0003ff;
   box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .auto-group-md1s-sTE .frame-115-jdr .vector-36-qKW {
   width: 3.95rem;
@@ -458,6 +480,7 @@ body {
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .frame-117-B8U {
   width: 100%;
@@ -465,6 +488,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .frame-117-B8U .trusted-by-these-brands-8Jc {
   margin: 0rem 5rem 2.7rem 0rem;
@@ -475,6 +499,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .frame-117-B8U .frame-82-3Ag {
   width: 100%;
@@ -482,6 +507,7 @@ body {
   display: flex;
   align-items: center;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .frame-117-B8U .frame-82-3Ag .auto-group-rhfw-yKE {
   box-sizing: border-box;
@@ -491,6 +517,7 @@ body {
   column-gap: 11.3rem;
   align-items: center;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .frame-117-B8U .frame-82-3Ag .auto-group-rhfw-yKE .item-1-1-Hqi {
   opacity: 0.5;
@@ -499,6 +526,7 @@ body {
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .frame-117-B8U .frame-82-3Ag .auto-group-rhfw-yKE .item-2-1-p4x {
   opacity: 0.5;
@@ -507,6 +535,7 @@ body {
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .frame-117-B8U .frame-82-3Ag .auto-group-rhfw-yKE .item-4-1-vtg {
   opacity: 0.5;
@@ -515,6 +544,7 @@ body {
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .frame-117-B8U .frame-82-3Ag .auto-group-rhfw-yKE .item-5-1-EuN {
   opacity: 0.5;
@@ -523,6 +553,7 @@ body {
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .frame-183-iKS .frame-117-B8U .frame-82-3Ag .item-6-1-BJp {
   opacity: 0.5;
@@ -531,20 +562,23 @@ body {
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-188-D1z .auto-group-null-BqJ .auto-group-null-BqJ-bg {
   width: 144.5rem;
   height: 107.1rem;
   position: relative;
   background-image: url('REPLACE_IMAGE:8fa4e98fc66e756df69ea2986d445d5c3332a6fd');
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG {
-  width: 144.2rem;
+  width: 100%;
   height: 95.1rem;
   position: absolute;
   left: 0.4rem;
   top: 264.7rem;
   background-color: #efeeee;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .ellipse-7-Yoa {
   width: 40rem;
@@ -555,15 +589,17 @@ body {
   box-shadow: 0 0 2.5rem #0066ff;
   background-color: #0066ff;
   border-radius: 20rem;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn {
-  width: 121.8rem;
+  width: 100%;
   height: 58.3rem;
   position: absolute;
   left: 9.1rem;
   top: 12.4rem;
   display: flex;
   align-items: center;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-88-zvU {
   margin-right: 8.2rem;
@@ -571,6 +607,7 @@ body {
   height: 100%;
   position: relative;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-88-zvU .rectangle-31-wKv {
   width: 36rem;
@@ -580,6 +617,7 @@ body {
   top: 8.4rem;
   object-fit: cover;
   vertical-align: top;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-88-zvU .rectangle-34-F5i {
   width: 36rem;
@@ -589,6 +627,7 @@ body {
   top: 0;
   object-fit: cover;
   vertical-align: top;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-88-zvU .image-6-MPe {
   width: 37.3rem;
@@ -598,6 +637,7 @@ body {
   top: 41.8rem;
   object-fit: cover;
   vertical-align: top;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-88-zvU .image-7-Uz4 {
   width: 38.1rem;
@@ -607,15 +647,17 @@ body {
   top: 28.3rem;
   object-fit: cover;
   vertical-align: top;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-89-pY8 {
   margin: 6.9rem 0rem 8.4rem 0rem;
-  width: 44.3rem;
-  height: calc(100% - 15.3rem);
+  width: 100%;
+  height: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-89-pY8 .auto-group-c5lc-wck {
   box-sizing: border-box;
@@ -624,6 +666,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-89-pY8 .auto-group-c5lc-wck .about-trueframe-t2C {
   margin: 0rem 0rem 2.8rem 0.6rem;
@@ -634,10 +677,11 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-89-pY8 .auto-group-c5lc-wck .digital-marketing-that-always-works-bSQ {
   margin: 0rem 0rem 3.8rem 0.5rem;
-  max-width: 29.9rem;
+  max-width: 100%;
   font-size: 3.6rem;
   font-weight: 700;
   line-height: 1.2575;
@@ -647,7 +691,7 @@ body {
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-89-pY8 .auto-group-c5lc-wck .our-mission-is-to-help-brands-build-a-clear-and-concise-website-that-intentionally-targets-their-market-our-values-are-rooted-in-quality-purpose-and-concentrated-efforts-i1E {
   margin: 0rem 0rem 3.7rem 0.5rem;
-  max-width: 41.9rem;
+  max-width: 100%;
   font-size: 1.5rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -657,10 +701,11 @@ body {
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-89-pY8 .auto-group-c5lc-wck .auto-group-j15r-7ZA {
   margin-right: 4.3rem;
-  width: calc(100% - 4.3rem);
+  width: 100%;
   display: flex;
   align-items: center;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-89-pY8 .auto-group-c5lc-wck .auto-group-j15r-7ZA .item-20-T7E {
   margin-right: 20.2rem;
@@ -671,6 +716,7 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-89-pY8 .auto-group-c5lc-wck .auto-group-j15r-7ZA .years-yrG {
   font-size: 4.8rem;
@@ -680,12 +726,14 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-89-pY8 .auto-group-89hr-K9S {
   width: 100%;
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-89-pY8 .auto-group-89hr-K9S .completed-projects-fyz {
   margin-right: 9.6rem;
@@ -696,9 +744,10 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-186-QxG .group-91-GDn .group-89-pY8 .auto-group-89hr-K9S .worth-of-professional-experience-Cyv {
-  max-width: 18.3rem;
+  max-width: 100%;
   font-size: 2rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -707,7 +756,7 @@ body {
   flex-shrink: 0;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe {
-  width: 144.4rem;
+  width: 100%;
   height: 250.2rem;
   position: absolute;
   left: 0.2rem;
@@ -715,6 +764,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL {
   margin-bottom: 80.2rem;
@@ -724,29 +774,32 @@ body {
   height: 149.3rem;
   background-color: #0e0e0e;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv {
   width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE {
   margin-bottom: 6.4rem;
   box-sizing: border-box;
   padding: 8rem 19.75rem 5.8rem 20.4rem;
-  width: 127rem;
+  width: 100%;
   height: 47.2rem;
   box-shadow: 0 0 2rem #0066ff;
   background-color: #0066ff;
   border-radius: 1rem;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE .frame-87-CW4 {
-  width: 100%;
   height: 100%;
   display: flex;
   flex-direction: column;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE .frame-87-CW4 .why-brands-work-with-trueframe-media-ABz {
   margin: 0rem 0rem 6.4rem 4.7rem;
@@ -757,21 +810,25 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
+  margin-left: 250px;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE .frame-87-CW4 .frame-86-Twn {
   width: 100%;
-  height: 22.4rem;
+  height: 100%;
   display: flex;
   align-items: flex-start;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE .frame-87-CW4 .frame-86-Twn .frame-83-2EC {
-  margin-right: 9.3rem;
+  margin-right: 25%;
   width: 21.3rem;
   align-items: center;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE .frame-87-CW4 .frame-86-Twn .frame-83-2EC .group-61-Zzp {
   margin: 0rem 6.6rem 2.1rem 6rem;
@@ -796,9 +853,11 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
+
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE .frame-87-CW4 .frame-86-Twn .frame-83-2EC .we-are-fully-dedicated-on-producing-quality-designs-xn4 {
-  max-width: 21.3rem;
+  max-width: 100%;
   text-align: center;
   font-size: 2rem;
   font-weight: 300;
@@ -808,13 +867,14 @@ body {
   flex-shrink: 0;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE .frame-87-CW4 .frame-86-Twn .frame-84-su2 {
-  margin-right: 9.85rem;
+  margin-right: 25%;
   width: 22.1rem;
   height: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE .frame-87-CW4 .frame-86-Twn .frame-84-su2 .group-62-cbi {
   margin: 0rem 6.3rem 2.1rem 4.1rem;
@@ -823,6 +883,7 @@ body {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE .frame-87-CW4 .frame-86-Twn .frame-84-su2 .group-62-cbi .purposeful-1-ht4 {
   margin: 0rem 1rem 2rem 0rem;
@@ -831,6 +892,7 @@ body {
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE .frame-87-CW4 .frame-86-Twn .frame-84-su2 .group-62-cbi .purposeful-Rp4 {
   font-size: 2.4rem;
@@ -840,9 +902,10 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .auto-group-94cy-4WL .frame-355-Nmv .group-77-wKE .frame-87-CW4 .frame-86-Twn .frame-84-su2 .we-are-intentional-on-every-micro-and-macro-designs-that-we-create-Mxc {
-  max-width: 22.1rem;
+  max-width: 100%;
   text-align: center;
   font-size: 2rem;
   font-weight: 300;
@@ -940,6 +1003,7 @@ body {
   column-gap: 5.9rem;
   align-items: center;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .frame-364-xmN .frame-357-eu6 {
   box-sizing: border-box;
@@ -953,6 +1017,7 @@ body {
   background-color: #ffffff;
   border-radius: 0.9rem;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .frame-364-xmN .frame-357-eu6 .revenue-generated-NaC {
   margin-bottom: 1rem;
@@ -963,14 +1028,16 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .frame-364-xmN .frame-357-eu6 .vector-41-JCx {
   margin-bottom: 1.2rem;
-  width: 17.2rem;
+  width: 100%;
   height: 0;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .frame-364-xmN .frame-357-eu6 .k-eGp {
   margin-bottom: 0.9rem;
@@ -981,9 +1048,10 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .frame-364-xmN .frame-357-eu6 .dollars-reported-client-revenue-and-counting-NyW {
-  max-width: 12.3rem;
+  max-width: 100%;
   font-size: 1rem;
   font-weight: 300;
   line-height: 1.2575;
@@ -1000,6 +1068,7 @@ body {
   background-color: #ffffff;
   border-radius: 0.9rem;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-wpl4-Gvk .frame-356-Koe .frame-364-xmN .frame-359-G3J .frame-358-BAG {
   width: 100%;
@@ -1158,15 +1227,17 @@ body {
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-psvz-MAY .frame-187-VGk {
   margin-right: 0.2rem;
   box-sizing: border-box;
   padding: 9.4rem 8.9rem 9.4rem 8.5rem;
-  width: 144.4rem;
+  width: 100%;
   height: 76.9rem;
   background-color: #0e0e0e;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-psvz-MAY .frame-187-VGk .frame-144-Cwr {
   width: 100%;
@@ -1174,6 +1245,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-psvz-MAY .frame-187-VGk .frame-144-Cwr .group-48-Adn {
   box-sizing: border-box;
@@ -1272,16 +1344,18 @@ body {
   height: 140.3rem;
   position: relative;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-psvz-MAY .auto-group-3jcg-VE8 .frame-159-qHz {
   box-sizing: border-box;
   padding: 15.8rem 11.946rem 4rem 11.954rem;
-  width: 144.6rem;
+  width: 100%;
   height: 74.2rem;
   position: absolute;
   left: 0;
   top: 66.1rem;
   background-color: #0e0e0e;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-psvz-MAY .auto-group-3jcg-VE8 .frame-159-qHz .frame-157-kQx {
   width: 100%;
@@ -1580,7 +1654,7 @@ body {
   background-color: #ffffff;
 }
 .homepage-1-rME .auto-group-psvz-MAY .auto-group-3jcg-VE8 .frame-143-Jtx {
-  width: 127.2rem;
+  width: 100%;
   height: 60.8rem;
   position: absolute;
   left: 8.7rem;
@@ -1598,11 +1672,11 @@ body {
   font-family: Moderat, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+  margin-right: 700px;
 }
 .homepage-1-rME .auto-group-psvz-MAY .auto-group-3jcg-VE8 .frame-143-Jtx .group-83-8NC {
   box-sizing: border-box;
   padding: 11.3rem 11.3rem 11.5rem 7.9rem;
-  width: 100%;
   height: 48.8rem;
   box-shadow: 0 0 1.2rem rgba(0, 102, 255, 0.9499999881);
   background-color: #0066ff;
@@ -1614,12 +1688,14 @@ body {
   height: 100%;
   display: flex;
   align-items: flex-start;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-psvz-MAY .auto-group-3jcg-VE8 .frame-143-Jtx .group-83-8NC .group-85-3zx .frame-131-D8k {
   margin: 2.3rem 11.9rem 0rem 0rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-psvz-MAY .auto-group-3jcg-VE8 .frame-143-Jtx .group-83-8NC .group-85-3zx .frame-131-D8k .be-part-of-the-trueframe-lists-by-subscribing-in-our-newsletter-9YC {
   margin-bottom: 0.8rem;
@@ -1630,15 +1706,17 @@ body {
   color: #ffffff;
   font-family: Moderat, 'Source Sans Pro';
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-psvz-MAY .auto-group-3jcg-VE8 .frame-143-Jtx .group-83-8NC .group-85-3zx .frame-131-D8k .vector-38-THz {
   margin-bottom: 1.3rem;
-  width: 47.1rem;
+  width: 100%;
   height: 0;
   object-fit: contain;
   vertical-align: top;
   border-radius: 1.2rem;
   flex-shrink: 0;
+  max-width: 100%;
 }
 .homepage-1-rME .auto-group-psvz-MAY .auto-group-3jcg-VE8 .frame-143-Jtx .group-83-8NC .group-85-3zx .frame-131-D8k .trueframe-medias-mission-is-to-help-brands-take-the-next-level-on-creating-an-impact-through-website-creation-and-digital-marketing-Bzg {
   max-width: 35.7rem;
